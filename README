@@ -1,5 +1,9 @@
 ﻿testing Kalpesh Prajapati.
 
+You can use the follow commands to add in the required information.
+
+git config --global user.name "NewUser"
+git config --global user.email newuser@example.com
 this is second commit.
 
 Create A Repo
